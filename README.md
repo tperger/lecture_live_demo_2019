@@ -1,2 +1,2 @@
-# lecture_live_demo_2019
+# Lecture live demo 2019
 This is a live demo for the lecture
